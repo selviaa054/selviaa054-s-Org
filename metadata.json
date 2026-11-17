@@ -1,0 +1,6 @@
+{
+  "name": "ChikiBliss",
+  "description": "Aesthetic pastel e-commerce boutique for cute local chiki snacks, sweet puffs, and curated snack gift boxes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
